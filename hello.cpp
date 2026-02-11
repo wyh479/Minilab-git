@@ -1,10 +1,10 @@
 #include <iostream>
 #include "myclass.h"
 
-using namespace std;
+1234567
 
 int main () {
-     cout << "Hello World" << endl;
+   cout << "Hello World" << endl;
 
   MyClass a(5);
   cout << a.getX() << endl;
