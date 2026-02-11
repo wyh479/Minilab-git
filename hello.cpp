@@ -6,6 +6,6 @@
 int main () {
    cout << "Hello World" << endl;
 
-  MyClass a(717);
+  MyClass a(0422);
   cout << a.getX() << endl;
 }
